@@ -1,4 +1,4 @@
-# 1mg Clone
+# MyMed Clone
 
 Online medicine supply website that allows users to order medicine with a prescription, and also offers a subscription plan for health checkups.
 
@@ -16,7 +16,7 @@ Online medicine supply website that allows users to order medicine with a prescr
 
 ## Link
 
-- [1mg-clone Video Demo](https://www.loom.com/share/c671c5fffa5e496aa9bacce261aae644/)
+- [MyMed-clone Video Demo](https://www.loom.com/share/c671c5fffa5e496aa9bacce261aae644/)
 
 ## Team Members
 
